@@ -1,4 +1,4 @@
 .ipynb_checkpoints/*.*
 out/*.*
 sources/*.*
-sources/odnr_production_files/*.*
+sources/odnr_production_files
